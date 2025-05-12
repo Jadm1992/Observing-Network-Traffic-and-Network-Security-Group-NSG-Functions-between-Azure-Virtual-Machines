@@ -7,7 +7,7 @@ In this project, we will observe various network traffic to and from Azure Virtu
 
 <h2>Prerequisite</h2>
 
-- [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
+- [Creating Virtual Machines in the Cloud](https://github.com/Jadm1992/AzureProject)
   
 <h2>Environments and Technologies Used</h2>
 
